@@ -1,5 +1,5 @@
 // Write a program to print whether a number is even or odd, also take input from the user.
-
+//dummy commit for a day
 
 let num = 5;
 
